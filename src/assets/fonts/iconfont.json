@@ -1,0 +1,44 @@
+{
+  "id": "2014360",
+  "name": "iconsole",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1058925",
+      "name": "search",
+      "font_class": "iconsearch-copy",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7547871",
+      "name": "24gf-heartPulse",
+      "font_class": "24gf-heartPulse",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "10562164",
+      "name": "Heart",
+      "font_class": "Heart",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "4544130",
+      "name": "logo",
+      "font_class": "logo",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10562171",
+      "name": "Hearts",
+      "font_class": "Hearts",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    }
+  ]
+}
